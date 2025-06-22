@@ -11,13 +11,6 @@
 
 ---
 
-## 📸 Demo
-
-> 🎥 Add your demo GIF or YouTube link here  
-> _“Watch how you can solve math using only your hands!”_
-
----
-
 ## 🚀 Features
 
 - 🧠 Real-time hand gesture recognition
